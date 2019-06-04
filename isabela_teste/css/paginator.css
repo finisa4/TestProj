@@ -1,0 +1,13 @@
+#conteudo{transition: opacity 0.2s ease-in-out;}
+#conteudo tbody tr{ transition: background-color 0.2s ease-in-out; }
+#conteudo thead{
+	background-color: #6BB8BA;
+	color: #fff;
+}
+#paginador td{
+	padding: 5px 10px;
+	font-size: 1.2em;
+}
+#paginador td a, #paginador td p{
+	color: #0F7787!important;
+}

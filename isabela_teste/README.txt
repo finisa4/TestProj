@@ -1,0 +1,1 @@
+SISTEMA DE PAGINAÇÃO: http://clubedosgeeks.com.br/programacao/php/paginacao-assincrona-com-jquery-ajax-e-mysql
